@@ -1,7 +1,7 @@
 # ML Get started 
 
 
-Highscool stuff which i have to learn or revise 
+Highscool basic stuff which i have to learn or revise 
 
 https://www.khanacademy.org/math/precalculus
 
@@ -20,16 +20,11 @@ https://www.khanacademy.org/math/algebra2
 https://www.khanacademy.org/math/linear-algebra
 
 
+More highlevel stuff 
 
-
-
-
-
-
-
-Calculus - https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm
-
-           https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/Syllabus/
+Calculus 1 - https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm
+          
+Calculus 2 - https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/Syllabus/
 
 Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
