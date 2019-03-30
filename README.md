@@ -1,5 +1,32 @@
 # ML Get started 
 
+
+Highscool stuff which i have to learn or revise 
+
+https://www.khanacademy.org/math/precalculus
+
+https://www.khanacademy.org/math/calculus-1
+
+https://www.khanacademy.org/math/basic-geo
+
+https://www.khanacademy.org/math/trigonometry
+
+https://www.khanacademy.org/math/algebra-basics
+
+https://www.khanacademy.org/math/algebra
+
+https://www.khanacademy.org/math/algebra2
+
+https://www.khanacademy.org/math/linear-algebra
+
+
+
+
+
+
+
+
+
 Calculus - https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm
 
            https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/Syllabus/
