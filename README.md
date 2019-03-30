@@ -2,6 +2,8 @@
 
 Calculus - https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm
 
+           https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/Syllabus/
+
 Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
 
